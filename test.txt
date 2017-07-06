@@ -4,7 +4,5 @@ i love she very much ,sery very much.
 this is the dev branch.
 she doesnot notice me.
 but i still love her.
-<<<<<<< HEAD
-=======
 she sent a message to me just now,told me to work hard.
->>>>>>> mydev
+so im going to work.
