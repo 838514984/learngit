@@ -2,8 +2,4 @@ this is the test file......
 i love 2332 ;
 i love she very much ,sery very much.
 this is the dev branch.
-<<<<<<< HEAD
-xixixi
-=======
-lalala
->>>>>>> dev
+she doesnot notice me.
